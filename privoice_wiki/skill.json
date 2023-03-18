@@ -1,0 +1,7 @@
+{
+	"skill_id":"wiki",
+	"name":"wiki skill",
+	"requires_internet": "yes",
+	"description":"Provides access to wikipedia.",
+	"search_terms":["wiki", "knowledge", "information"]
+}

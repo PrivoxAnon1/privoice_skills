@@ -1,0 +1,5 @@
+requests
+PyYAML
+websockets
+websocket-client
+

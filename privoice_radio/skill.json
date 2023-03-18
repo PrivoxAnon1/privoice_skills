@@ -1,0 +1,7 @@
+{
+	"skill_id":"radio",
+	"name":"radio skill",
+	"requires_internet": "yes",
+	"description":"Provides radio like features.",
+	"search_terms":["radio", "free", "public"]
+}

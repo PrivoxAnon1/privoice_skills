@@ -1,0 +1,7 @@
+{
+	"skill_id":"example",
+	"name":"example skill",
+	"requires_internet": "no",
+	"description":"Sample privox question and answer skill.",
+	"search_terms":["how to", "sample", "example"]
+}

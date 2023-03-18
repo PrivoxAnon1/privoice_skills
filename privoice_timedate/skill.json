@@ -1,0 +1,7 @@
+{
+	"skill_id":"timedate",
+	"name":"time skill",
+	"requires_internet": "no",
+	"description":"Provides local time and date features.",
+	"search_terms":["time", "date", "time and date"]
+}

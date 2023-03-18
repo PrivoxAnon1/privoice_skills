@@ -1,0 +1,7 @@
+{
+	"skill_id":"weather",
+	"name":"weather skill",
+	"requires_internet": "yes",
+	"description":"Provides weather features.",
+	"search_terms":["weather", "forecast", "temperature"]
+}
